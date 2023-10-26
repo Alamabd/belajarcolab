@@ -1,3 +1,4 @@
-let i = 10;
+
+let i = 0;
 console.log(i + 90);
 // DITERIMA
